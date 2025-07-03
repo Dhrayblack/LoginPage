@@ -1,5 +1,2 @@
 # LOGIN UI x FLUTTER
-
-
-
-![72692840-4960-4603-B21E-3BC8442AA19F](https://user-images.githubusercontent.com/29016489/206952739-29d2403c-c26b-472f-9f4d-fdc0e1458326.JPG)
+![Simulator Screenshot - iPhone 16 Plus - 2025-07-03 at 15 02 11](https://github.com/user-attachments/assets/dfde1623-c83f-400f-a448-beefafe59b08)
